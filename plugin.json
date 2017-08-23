@@ -6,6 +6,7 @@
     "keywords"              : ["theme", "Ceres", "template", "Silberringe"],
     "type"                  :"theme",
     "require"               : [],
+	"version"				:"1.0.0",
     "serviceProvider"       :"SilberringeCeresTheme\\Providers\\SilberringeCeresThemeServiceProvider",
     "dataProviders"         :
     [
