@@ -2,7 +2,7 @@
     "name"                  :"SilberringeCeresTheme",
     "description"           :"Modifying the Ceres Theme for Silberringe.de",
     "namespace"             :"SilberringeCeres",
-    "author"                :"max",
+    "author"                :"max.ruhe",
     "keywords"              : ["theme", "Ceres", "template", "Silberringe"],
     "type"                  :"theme",
     "require"               : [],
