@@ -8,6 +8,6 @@ class SilberringeCeresThemeContainer
 {
     public function call(Twig $twig):string
     {
-        return $twig->render('SilberringeCeresTheme::content.SilberringeCeresTheme');
+        return $twig->render('SilberringeCeresTheme::Stylesheet');
     }
 }
